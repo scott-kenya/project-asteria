@@ -1,45 +1,27 @@
-Project-Asteria/
+# Project Asteria
 
-│
-├── README.md
-├── CHANGELOG.md
-├── PROJECT_RULES.md
-│
-├── index.html
-│
-├── assets/
-│   ├── images/
-│   ├── videos/
-│   ├── fonts/
-│   └── icons/
-│
-├── css/
-│   ├── variables.css
-│   ├── reset.css
-│   ├── base.css
-│   ├── typography.css
-│   ├── loader.css
-│   ├── navigation.css
-│   ├── components.css
-│   ├── scenes.css
-│   ├── animations.css
-│   └── responsive.css
-│
-├── js/
-│   ├── app.js
-│   ├── config.js
-│   ├── storyEngine.js
-│   ├── sceneManager.js
-│   ├── navigation.js
-│   ├── loader.js
-│   ├── animations.js
-│   └── scroll.js
-│
-├── vendors/
-│   ├── gsap/
-│   └── lenis/
-│
-└── docs/
-    ├── DESIGN_SYSTEM.md
-    ├── STORY.md
-    └── ROADMAP.md
+A cinematic storytelling framework powering the House of Amelia digital experience.
+
+## Philosophy
+
+Visitors should never feel like they are browsing a website.
+
+They should feel like they are arriving at a destination.
+
+## Technology
+
+- HTML5
+- Modern CSS
+- Vanilla JavaScript (ES Modules)
+- GSAP (Sprint 2)
+- Lenis (Sprint 2)
+
+## Structure
+
+The project is built around reusable scenes instead of traditional web pages.
+
+Each scene represents a chapter in the visitor's journey.
+
+Designed by Scott Zena
+
+Creative Direction: Project Asteria

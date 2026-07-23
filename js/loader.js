@@ -1,1 +1,11 @@
-loader.js
+class Loader{
+
+show(){
+
+}
+
+hide(){
+
+}
+
+}
