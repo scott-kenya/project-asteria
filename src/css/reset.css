@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+
+background:#070707;
+color:white;
+overflow-x:hidden;
+
+}

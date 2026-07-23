@@ -1,25 +1,20 @@
-# Sprint Roadmap
+Sprint 1 ✅
+Project Setup
 
-Sprint 1
-Foundation
-
-Sprint 2
-Story Engine + Motion
+Sprint 2 ✅
+Folder Structure
 
 Sprint 3
-Arrival
+Design System
 
 Sprint 4
-House Experience
+Arrival Hero
 
 Sprint 5
-Lifestyle
+Story Scroll
 
 Sprint 6
-Booking
+Scene Engine
 
 Sprint 7
-Optimization
-
-Sprint 8
-Launch
+Luxury Animations
